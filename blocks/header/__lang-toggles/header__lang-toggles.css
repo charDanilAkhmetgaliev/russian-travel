@@ -1,0 +1,9 @@
+.header__lang-toggles {
+  margin: 0;
+  padding: 18px 0 0;
+  list-style: none;
+  display: flex;
+  gap: 18px;
+  box-sizing: border-box;
+  /* background-color: red; */
+}
