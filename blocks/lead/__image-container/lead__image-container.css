@@ -1,0 +1,13 @@
+.lead__image-container {
+  margin: 0 ;
+  padding: 64px 0 0;
+  max-width: 984px;
+  max-height: 629px;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__image-container {
+    max-width: 928px;
+    max-height: 594px;
+  }
+}
