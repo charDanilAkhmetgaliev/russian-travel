@@ -1,7 +1,7 @@
 .lead__image-container {
   margin: 0 ;
   padding: 64px 0 0;
-  width: 100%;
+  max-width: 984px;
   min-width: 984px;
   min-height: 701px;
   box-sizing: border-box;
