@@ -4,4 +4,5 @@
   max-width: 984px;
   display: grid;
   grid-template-columns: 460px 484px;
+  grid-template-rows: 76px 460px;
 }
