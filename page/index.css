@@ -47,3 +47,10 @@
 @import url(../blocks/places/__website/places__website.css);
 @import url(../blocks/places/__url-heading/places__url-heading.css);
 @import url(../blocks/places/__text/places__text.css);
+
+/* cover */
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__background/cover__background.css);
+@import url(../blocks/cover/__overlay/cover__overlay.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../blocks/cover/__title/cover__title.css);
