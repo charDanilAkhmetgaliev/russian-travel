@@ -3,17 +3,14 @@
   margin: 0;
   display: grid;
   list-style: none;
-  grid-template-columns: repeat(auto-fit, 284px);
-  grid-template-rows: repeat(auto-fit, 213px);
+  grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
   gap: 16px;
-  max-width: 1184px;
+  width: 100%;
 }
 
 @media screen and (max-width: 1024px) {
   .photo-grid__container {
-    grid-template-columns: repeat(auto-fit, 300px);
-    grid-template-rows: repeat(auto-fit, 225px);
-    max-width: 928px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 14px;
   }
 }
