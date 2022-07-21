@@ -1,0 +1,11 @@
+.places__place {
+  margin: 0;
+  display: grid;
+  column-gap: 40px;
+  row-gap: 48px;
+  width: 100%;
+  grid-template-columns: repeat(2, minmax(320px, max-content));
+  grid-template-areas:
+  "title website"
+  "image paragraph";
+}
