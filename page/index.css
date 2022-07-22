@@ -4,6 +4,9 @@
 /* root */
 @import url(../blocks/root/root.css);
 
+/* tranish */
+@import url(../blocks/tranish/tranish.css);
+
 /* bold-text */
 @import url(../blocks/bold-text/bold-text.css);
 
@@ -14,6 +17,10 @@
 @import url(../blocks/header/__lang-toggle/header__lang-toggle.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__lang-link/_condition/header__lang-link_condition_active.css);
+
+
+/* content */
+@import url(../blocks/content/content.css);
 
 /* lead */
 @import url(../blocks/lead/lead.css);
@@ -50,7 +57,7 @@
 
 /* cover */
 @import url(../blocks/cover/cover.css);
-@import url(../blocks/cover/__background/cover__background.css);
+@import url(../blocks/cover/__link/cover__link.css);
 @import url(../blocks/cover/__overlay/cover__overlay.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__title/cover__title.css);

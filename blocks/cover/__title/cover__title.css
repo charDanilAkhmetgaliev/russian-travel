@@ -2,5 +2,11 @@
   margin: 0;
   padding: 0;
   position: relative;
-  z-index: 1;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 76px;
+  letter-spacing: 0;
+  width: max-content;
+  text-align: center;
+  white-space: pre-line;
 }
