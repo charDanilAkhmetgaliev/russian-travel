@@ -11,3 +11,9 @@
     font-size: 16px;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .places__paragraph {
+    white-space: pre-line;
+  }
+}

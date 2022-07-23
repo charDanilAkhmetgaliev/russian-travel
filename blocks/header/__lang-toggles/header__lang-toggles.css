@@ -1,9 +1,15 @@
 .header__lang-toggles {
   margin: 0;
-  padding: 18px 0 0;
+  padding: 0 0 5px;
   list-style: none;
   display: flex;
   gap: 18px;
   box-sizing: border-box;
-  /* background-color: red; */
+  align-items: flex-end;
+}
+
+@media screen and (max-width: 320px) {
+  .header__lang-toggles {
+    padding: 0 0 7px;
+  }
 }

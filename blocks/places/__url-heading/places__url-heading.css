@@ -1,8 +1,15 @@
 .places__url-heading {
   margin: 0;
+  padding: 0;
   color: #aaa;
   font-size: 12px;
   line-height: 12px;
   letter-spacing: 2px;
   text-transform: uppercase;
+}
+
+@media screen and (max-wdith: 320px) {
+  .places__url-heading {
+    padding: 0 16px;
+  }
 }

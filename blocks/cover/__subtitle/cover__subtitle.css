@@ -4,7 +4,15 @@
   font-size: 18px;
   line-height: 22px;
   font-weight: normal;
-  width: max-content;
-  white-space: pre-line;
   text-align: center;
+  max-width: 360px;
+}
+
+@media screen and (max-width: 320px) {
+  .cover__subtitle {
+    font-size: 14px;
+    line-height: 16px;
+    max-width: 288px;
+    white-space: pre-line;
+  }
 }

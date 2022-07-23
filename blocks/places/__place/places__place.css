@@ -21,4 +21,16 @@
     grid-template-columns: 340px auto;
     column-gap: 28px;
   }
+
+@media screen and (max-width: 320px) {
+  .places__place {
+    grid-template-columns: repeat(1, 320px);
+    grid-template-areas:
+    "title"
+    "website"
+    "image"
+    "paragraph";
+    gap: 32px;
+  }
+}
 }

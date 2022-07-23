@@ -16,3 +16,12 @@
     width: auto;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .places__title {
+    padding: 0 16px;
+    line-height: 35px;
+    font-size: 32px;
+    white-space: nowrap;
+  }
+}
