@@ -13,3 +13,6 @@
 Планируется в следующих обновлениях:
 1. Сделать английскую версию сайта для более широкой социальной доступности.
 2. Дописать все вендорные префиксы для кроссбраузерности;
+
+## Ссылка на GitHub Pages
+[https://chardanilakhmetgaliev.github.io/russian-travel/index.html](https://chardanilakhmetgaliev.github.io/russian-travel/index.html)
