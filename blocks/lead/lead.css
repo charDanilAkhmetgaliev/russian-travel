@@ -7,3 +7,15 @@
   flex-direction: column;
   align-items: center;
 }
+
+@media screen and (max-width: 1024px) {
+  .lead {
+  padding: 48px 48px 0;    
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead {
+  padding: 48px 0 0;    
+  }
+}
