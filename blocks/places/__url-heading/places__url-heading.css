@@ -8,7 +8,7 @@
   text-transform: uppercase;
 }
 
-@media screen and (max-wdith: 320px) {
+@media screen and (max-width: 320px) {
   .places__url-heading {
     padding: 0 16px;
   }
