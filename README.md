@@ -15,4 +15,4 @@
 2. Дописать все вендорные префиксы для кроссбраузерности;
 
 ## Ссылка на GitHub Pages
-[https://chardanilakhmetgaliev.github.io/russian-travel/](https://chardanilakhmetgaliev.github.io/russian-travel/)
+[https://chardanilakhmetgaliev.github.io/russian-travel/index.html](https://chardanilakhmetgaliev.github.io/russian-travel/index.html)
