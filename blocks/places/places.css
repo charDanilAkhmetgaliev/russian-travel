@@ -1,9 +1,10 @@
 .places {
-  margin: 0;
+  margin: 0 auto;
   padding: 85px 148px 92px;
   display: flex;
   flex-direction: column;
   align-items: center;
   box-sizing: border-box;
   gap: 80px;
+  max-width: 1280px;
 }
