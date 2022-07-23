@@ -1,0 +1,9 @@
+@keyframes pales {
+  to {
+    opacity: 0.7;
+  }
+}
+
+.blanch:hover {
+  animation: pales ease-out 0.7s forwards;
+}

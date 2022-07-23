@@ -2,5 +2,6 @@
   margin: 0;
   color: #fff;
   font-size: 18px;
-  list-style: 22px;
+  line-height: 22px;
+  text-decoration: underline;
 }
