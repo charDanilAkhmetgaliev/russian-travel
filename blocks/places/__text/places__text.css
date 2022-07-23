@@ -1,7 +1,6 @@
 .places__text {
   margin: 0;
   grid-area: paragraph;
-  width: 100%;
   display: flex;
   flex-direction: column;
   gap: 26px;

@@ -2,4 +2,6 @@
   margin: 0;
   grid-area: image;
   width: 100%;
+  object-fit: contain;
+  object-position: center;
 }

@@ -1,17 +1,6 @@
 .lead__image-container {
   margin: 0 ;
-  padding: 64px 0 0;
-  max-width: 984px;
-  min-width: 984px;
-  min-height: 701px;
+  padding: 0;
   box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
+  width: 100%;
 }
-
-/*@media screen and (max-width: 1024px) {
-  .lead__image-container {
-    min-width: 928px;
-    max-height: 594px;
-  }*/
