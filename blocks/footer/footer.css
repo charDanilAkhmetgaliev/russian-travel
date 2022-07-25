@@ -3,8 +3,10 @@
 	padding: 91px 48px 24px;
 	display: flex;
 	justify-content: space-between;
-	min-width: 320px;
+  box-sizing: border-box;
+  width: 100%;
   max-width: 1280px;
+  min-width: 320px;
 }
 
 @media screen and (max-width: 768px) {
@@ -18,6 +20,7 @@
     align-items: flex-start;
     flex-direction: column;
     padding: 64px 16px 24px;
-    min-height: 310px;
+    gap: 48px;
+    box-sizing: border-box;
   }
 }

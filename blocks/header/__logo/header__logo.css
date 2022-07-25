@@ -2,7 +2,15 @@
   margin: 0;
   padding: 0;
   min-width: 176px;
+  min-height: 52px;
   background-image: url(../../../images/__logo.svg);
   background-repeat: no-repeat;
   background-size: contain;
+}
+
+@media screen  and (max-width: 320px){
+  .header__logo {
+    min-width: 142px;
+    min-height: 42px;
+  }
 }

@@ -1,4 +1,4 @@
-.places__url-heading {
+.place__url-heading {
   margin: 0;
   padding: 0;
   color: #aaa;
@@ -9,7 +9,7 @@
 }
 
 @media screen and (max-width: 320px) {
-  .places__url-heading {
+  .place__url-heading {
     padding: 0 16px;
   }
 }

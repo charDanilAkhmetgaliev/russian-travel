@@ -1,4 +1,4 @@
-.places__text {
+.place__text {
   margin: 0;
   grid-area: paragraph;
   display: flex;
@@ -7,13 +7,13 @@
 }
 
 @media screen and (max-width: 768px) {
-  .places__text {
+  .place__text {
     gap: 25px;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .places__text {
+  .place__text {
     padding: 0 16px;
     gap: 28px;
   }
