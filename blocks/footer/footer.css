@@ -24,14 +24,3 @@
     box-sizing: border-box;
   }
 }
-
-
-@media screen and (max-width: 320px) {
-  .footer {
-    align-items: flex-start;
-    flex-direction: column;
-    padding: 64px 16px 24px;
-    gap: 48px;
-    box-sizing: border-box;
-  }
-}
