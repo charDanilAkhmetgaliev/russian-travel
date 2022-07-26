@@ -4,14 +4,8 @@
 /* root */
 @import url(../blocks/root/root.css);
 
-/* tranish */
-@import url(../blocks/tranish/tranish.css);
-
 /* blacnh */
 @import url(../blocks/blanch/blanch.css);
-
-/* bold-text */
-@import url(../blocks/bold-text/bold-text.css);
 
 /* header */
 @import url(../blocks/header/header.css);

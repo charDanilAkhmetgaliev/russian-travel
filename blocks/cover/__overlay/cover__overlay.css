@@ -8,4 +8,9 @@
   bottom: 0;
   left: 0;
   right: 0;
+  transition: opacity linear;
+}
+
+.cover__link:hover .cover__overlay {
+  opacity: 80%;
 }

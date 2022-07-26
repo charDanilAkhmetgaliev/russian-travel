@@ -11,9 +11,20 @@
 
 @media screen and (max-width: 768px) {
   .footer {
-    padding: 88px 24px 24px;
+    padding: 76px 24px 24px;
   }
 }
+
+@media screen and (max-width: 724px) {
+  .footer {
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 64px 16px 24px;
+    gap: 48px;
+    box-sizing: border-box;
+  }
+}
+
 
 @media screen and (max-width: 320px) {
   .footer {
